@@ -1,40 +1,46 @@
 [
     {
-      "id": "01",
+      "_id": "01",
+      "category_id":"0123",
       "picture": "https://img.freepik.com/free-photo/html-http-web-design-hompage-icon_53876-120700.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
       "title": "html",
       "about": "HTML is the foundation of all web pages. This course will teach you the common HTML tags used to structure HTML pages and how to create HTML tables. \r\n 1.To create HTML bullet points, type the first part of the start tag at the point in the web page at which to add the unordered list (Exclude the trailing periods at the ends of these sentences.) \r\n 2.Then type the value for the type of bullets with closing quotes: disc” or circle” or square”. \r\n 3.Then close the tag by typing the closing tag character: >. \r\n 4.Press the “Enter” key on your keyboard. \r\n 5.Type the text for the first item in your list. \r\n  6.Type </li>. \r\n 7. Repeat steps 4 through 7 for each additional line item to add. \r\n 8.When done, press the “Enter” key on your keyboard. \r\n"
     },
     {
-      "id": "02",
+      "_id": "02",
+      "category_id":"0124",
       "picture": "https://img.freepik.com/free-vector/java-developer-smartphone-software-javascript-coding-writing-application-css-programming-html-source-code-tampering-mobile-program-isolated-concept-metaphor-illustration_335657-1153.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
 
       "title": "css",
       "about": "Learn the many aspects of styling web pages to suit a variety of needs. Put those skills to use by creating portfolio-worth projects that showcase your mastery.\r\n 1.Cascading Style Sheets are an important way to control how your web pages look. CSS controls the fonts, text, colors, backgrounds, margins, and layout. CSS offers several significant advantages over alternative approaches to web design. \r\n 2.By learning CSS you can modify these templates so that they display your colors and styles. Thus, you'll have a customized website without a lot of effort. \r\n 3.There are a lot of web designers who will build your website or your CSS for you. \r\n 4.Once you know CSS really well, you can sell these services to other websites \r\n"
     },
     {
-      "id": "03",
+      "_id": "03",
+      "category_id":"0125",
       "picture": "https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323",
       "title": "javascript",
       "about":  "You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.\r\n 1.Autocomplete.\r\n 2.Loading new content or data onto the page without reloading the page.\r\n  3.Rollover effects and dropdown menus.\r\n  4.Animating page elements such as fading, resizing or relocating \r\n "
     },
     {
-      "id": "04",
+      "_id": "04",
+      "category_id":"0126",
       "picture": "https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
       "title": "react",
-      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a wider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
+      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a w_ider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
     },
     {
-      "id": "05",
+      "_id": "05",
+      "category_id":"0127",
       "picture": "https://img.freepik.com/free-vector/java-developer-smartphone-software-javascript-coding-writing-application-css-programming-html-source-code-tampering-mobile-program-isolated-concept-metaphor-illustration_335657-1153.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323&semt=sph",
       "title": "angular",
-      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a wider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
+      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a w_ider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
     },
     {
-      "id": "06",
+      "_id": "06",
+      "category_id":"0128",
       "picture": "https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?size=338&ext=jpg&ga=GA1.2.1819645791.1666648323",
       "title": "node js",
-      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a wider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
+      "about": "While most of our daily life tasks have been digitally transformed, learning has also become easier and reachable to a w_ider audience. There are plenty of platforms where you can learn new skills. The best thing is that you can learn anytime anywhere without any time limit.\r\n  1.Learn the modern way of building web applications.\r\n 2.Master React's Compositional Model.\r\n 3.Build an Instagram-like Web App from the ground up!\r\n 4.Build Interactive Web Pages with self-contained Components \r\n"
     }
    
   ]
