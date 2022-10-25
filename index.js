@@ -26,9 +26,9 @@ app.get('/details/:id', (req, res) =>{
     res.send(selectedDetails);
 });
 
-app.get('/category/:id', (req, res) =>{
+app.get('/categorise/:id', (req, res) =>{
     const id = req.params.id;
-    const categories = details.filter(category => category.category_id ===id);
+    const categories = details.filter(c => c.category_id ===id);
     res.send(categories);
 
 })
