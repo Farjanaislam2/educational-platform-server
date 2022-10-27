@@ -28,8 +28,9 @@ app.get('/details/:id', (req, res) =>{
 
 app.get('/categorise/:id', (req, res) =>{
     const id = req.params.id;
-    const categories = details.filter(c => c.category_id ===id);
+    const categories = details.filter(c => c._id ==id);
     res.send(categories);
+    console.log(categories)
 
 })
 
